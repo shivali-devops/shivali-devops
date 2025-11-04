@@ -9,18 +9,18 @@ Passionate about solving problems through automation and exploring DevOps tools 
 
 | Project | Description |
 |----------|-------------|
-| [helloworld-devops-pipeline](https://github.com/yourusername/helloworld-devops-pipeline) | CI/CD pipeline integrating SonarQube scan, Docker build, and AWS deployment. |
+| [helloworld-devops-pipeline](https://github.com/shivali-devops/helloworld-devops-pipeline) | CI/CD pipeline integrating SonarQube scan, Docker build, and AWS deployment. |
 
 ---
 ### 🧠 Learning Labs
 Here’s what I’ve been experimenting with:
 | Repo | Focus Area |
 |------|-------------|
-| [Jenkins-learning-lab](https://github.com/yourusername/Jenkins-learning-lab) | Jenkins pipelines and automation practice. |
-| [Docker-learning-lab](https://github.com/yourusername/Docker-learning-lab) | Containerization with Docker and Docker Compose. |
-| [Terraform-learning-lab](https://github.com/yourusername/Terraform-learning-lab) | Infrastructure automation with Terraform. |
-| [Linux-learning-lab](https://github.com/yourusername/Linux-learning-lab) | Linux commands, shell scripting, and system operations. |
-| [django-learning-lab](https://github.com/yourusername/django-learning-lab) | Practiced basic backend setup and deployment. |
+| [Jenkins-learning-lab](https://github.com/shivali-devops/Jenkins-learning-lab) | Jenkins pipelines and automation practice. |
+| [Docker-learning-lab](https://github.com/shivali-devops/Docker-learning-lab) | Containerization with Docker and Docker Compose. |
+| [Terraform-learning-lab](https://github.com/shivali-devops/Terraform-learning-lab) | Infrastructure automation with Terraform. |
+| [Linux-learning-lab](https://github.com/shivali-devops/Linux-learning-lab) | Linux commands, shell scripting, and system operations. |
+| [django-learning-lab](https://github.com/shivali-devops/django-learning-lab) | Practiced basic backend setup and deployment. |
 ---
 
 ## 📫 Connect
