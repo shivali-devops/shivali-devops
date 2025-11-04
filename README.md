@@ -16,11 +16,11 @@ Passionate about solving problems through automation and exploring DevOps tools 
 Here’s what I’ve been experimenting with:
 | Repo | Focus Area |
 |------|-------------|
-| [Jenkins-learning-lab](https://github.com/yourusername/learning-jenkins-lab) | Jenkins pipelines and automation practice. |
-| [Docker-learning-lab](https://github.com/yourusername/learning-docker-lab) | Containerization with Docker and Docker Compose. |
-| [Terraform-learning-lab](https://github.com/yourusername/learning-terraform-lab) | Infrastructure automation with Terraform. |
-| [Linux-learning-lab](https://github.com/yourusername/learning-linux-lab) | Linux commands, shell scripting, and system operations. |
-| [django-learning-lab](https://github.com/yourusername/learning-django-lab) | Practiced basic backend setup and deployment. |
+| [Jenkins-learning-lab](https://github.com/yourusername/Jenkins-learning-lab) | Jenkins pipelines and automation practice. |
+| [Docker-learning-lab](https://github.com/yourusername/Docker-learning-lab) | Containerization with Docker and Docker Compose. |
+| [Terraform-learning-lab](https://github.com/yourusername/Terraform-learning-lab) | Infrastructure automation with Terraform. |
+| [Linux-learning-lab](https://github.com/yourusername/Linux-learning-lab) | Linux commands, shell scripting, and system operations. |
+| [django-learning-lab](https://github.com/yourusername/django-learning-lab) | Practiced basic backend setup and deployment. |
 ---
 
 ## 📫 Connect
