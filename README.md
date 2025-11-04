@@ -21,7 +21,6 @@ I’m currently learning by exploring different DevOps and frontend tools throug
 - ☁️ **Terraform Lab:** Learning Infrastructure as Code basics  
 - 💻 **Linux & Shell Labs:** Practicing automation and system operations  
 - ⚙️ **Vue Practice Projects:** Building simple apps for deployment and integration testing
-- 
 ---
 
 ## 📫 Connect
